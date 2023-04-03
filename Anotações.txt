@@ -1,0 +1,6 @@
+import pandas as pd
+
+pd = read_excel(("nome do Arquivo")
+
+TEXTO PARA COLUNAS
+	
